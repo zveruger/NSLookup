@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSLookup", "NSLookup\NSLookup.csproj", "{7E3511F3-3154-42FD-AA3D-D51CAF01F0C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Setups", "Setups", "{BA45C63D-94C9-419F-A2FE-91441287AFF0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NSLookupSetupUpdate", "NSLookupSetupUpdate\NSLookupSetupUpdate.vdproj", "{2EA21BA5-DC3F-478C-9A1B-F71745D6CDD5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NSLookupSetupFull", "NSLookupSetupFull\NSLookupSetupFull.vdproj", "{CD0DD162-8963-4C70-AED9-176567B243E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3511F3-3154-42FD-AA3D-D51CAF01F0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3511F3-3154-42FD-AA3D-D51CAF01F0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3511F3-3154-42FD-AA3D-D51CAF01F0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3511F3-3154-42FD-AA3D-D51CAF01F0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA21BA5-DC3F-478C-9A1B-F71745D6CDD5}.Debug|Any CPU.ActiveCfg = Debug
+		{2EA21BA5-DC3F-478C-9A1B-F71745D6CDD5}.Release|Any CPU.ActiveCfg = Release
+		{CD0DD162-8963-4C70-AED9-176567B243E5}.Debug|Any CPU.ActiveCfg = Debug
+		{CD0DD162-8963-4C70-AED9-176567B243E5}.Debug|Any CPU.Build.0 = Debug
+		{CD0DD162-8963-4C70-AED9-176567B243E5}.Release|Any CPU.ActiveCfg = Release
+		{CD0DD162-8963-4C70-AED9-176567B243E5}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2EA21BA5-DC3F-478C-9A1B-F71745D6CDD5} = {BA45C63D-94C9-419F-A2FE-91441287AFF0}
+		{CD0DD162-8963-4C70-AED9-176567B243E5} = {BA45C63D-94C9-419F-A2FE-91441287AFF0}
+	EndGlobalSection
+EndGlobal

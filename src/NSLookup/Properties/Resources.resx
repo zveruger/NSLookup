@@ -118,28 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MessageErrorNotDNSInformation" xml:space="preserve">
-    <value>Не удалось найти информацию о компьютере с именем или IP-адресом {0}.</value>
+    <value>Not found information about the computer use name or IP address {0}.</value>
   </data>
   <data name="MessageHostName" xml:space="preserve">
-    <value>Имя компьютера</value>
+    <value>Computer name</value>
   </data>
   <data name="MessageSeparator" xml:space="preserve">
     <value>************************************************************</value>
   </data>
   <data name="MessageEnterIPAddress" xml:space="preserve">
-    <value>Введите имя или IP-адрес компьютера: </value>
+    <value>Enter the name or the IP address:</value>
   </data>
   <data name="MessageExit" xml:space="preserve">
-    <value>Для продолжения нажмите клавишу "Enter", а для выхода клавишу "Esc".</value>
+    <value>Press "Enter" to continue or "Esc" to exit.</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="logo_Image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo.Image.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MessageHostIPv4" xml:space="preserve">
-    <value>Адрес IPv4</value>
+    <value>Address IPv4</value>
   </data>
   <data name="MessageHostIPv6" xml:space="preserve">
-    <value>Адрес IPv6</value>
+    <value>Address IPv6</value>
   </data>
 </root>

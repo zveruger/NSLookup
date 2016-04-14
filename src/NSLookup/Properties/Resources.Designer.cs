@@ -71,7 +71,7 @@ namespace NSLookup.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Введите имя или IP-адрес компьютера: .
+        ///   Looks up a localized string similar to Enter the name or the IP address:.
         /// </summary>
         internal static string MessageEnterIPAddress {
             get {
@@ -80,7 +80,7 @@ namespace NSLookup.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Не удалось найти информацию о компьютере с именем или IP-адресом {0}..
+        ///   Looks up a localized string similar to Not found information about the computer use name or IP address {0}..
         /// </summary>
         internal static string MessageErrorNotDNSInformation {
             get {
@@ -89,7 +89,7 @@ namespace NSLookup.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Для продолжения нажмите клавишу &quot;Enter&quot;, а для выхода клавишу &quot;Esc&quot;..
+        ///   Looks up a localized string similar to Press &quot;Enter&quot; to continue or &quot;Esc&quot; to exit..
         /// </summary>
         internal static string MessageExit {
             get {
@@ -98,7 +98,7 @@ namespace NSLookup.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Адрес IPv4.
+        ///   Looks up a localized string similar to Address IPv4.
         /// </summary>
         internal static string MessageHostIPv4 {
             get {
@@ -107,7 +107,7 @@ namespace NSLookup.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Адрес IPv6.
+        ///   Looks up a localized string similar to Address IPv6.
         /// </summary>
         internal static string MessageHostIPv6 {
             get {
@@ -116,7 +116,7 @@ namespace NSLookup.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Имя компьютера.
+        ///   Looks up a localized string similar to Computer name.
         /// </summary>
         internal static string MessageHostName {
             get {
